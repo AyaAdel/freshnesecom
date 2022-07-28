@@ -63,9 +63,5 @@
     "eslint-plugin-react": "^7.30.1",
     "gh-pages": "^4.0.0",
     "prettier": "^2.7.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AyaAdel/freshnesecom.git"
   }
 }
