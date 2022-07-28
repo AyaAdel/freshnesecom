@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product renders correctly 1`] = `
+<div
+  className="product-item"
+  data-testid="product1"
+>
+  <div
+    className="product-item__image-wrapper"
+  >
+    <img
+      className="product-item__image"
+      src="https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+    />
+    <span
+      className="product-item__discount-percent"
+    >
+      -12.96%
+    </span>
+  </div>
+  <h5
+    className="product-item__name"
+  >
+    iPhone 9
+  </h5>
+  <p
+    className="product-item__description"
+  >
+    An apple mobile which is nothing like apple
+  </p>
+  <div
+    className="product-item__Action"
+  >
+    <div
+      className="product-item__price"
+    >
+      <span
+        className="product-item__current-price"
+      >
+        549 usd
+      </span>
+    </div>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      Buy now
+    </button>
+  </div>
+</div>
+`;

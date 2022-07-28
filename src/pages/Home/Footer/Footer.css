@@ -1,0 +1,16 @@
+.footer {
+  padding: 64px 45px;
+}
+
+.footer__links {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
+
+.footer__copyright {
+  font-size: 14px;
+  line-height: 19px;
+  color: #151515;
+  margin: 0;
+}

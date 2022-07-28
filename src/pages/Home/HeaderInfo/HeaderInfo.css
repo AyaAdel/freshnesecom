@@ -1,0 +1,34 @@
+.header-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+  margin: 0 45px;
+  border-bottom: 1px solid rgba(21, 21, 21, 0.05);
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.header-info a {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.header-info span {
+  color: #151515;
+}
+
+.header-info__right-side,
+.header-info__left-side {
+  display: flex;
+}
+
+.header-info__left-side {
+  gap: 33px;
+}
+
+.header-info__right-side {
+  gap: 38px;
+}

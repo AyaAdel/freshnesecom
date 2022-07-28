@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown Render Dropdown Correctly 1`] = `
+<div
+  className="dropdown-list"
+  data-testid="dropdown-list"
+>
+  <div
+    className="dropdown-list__list__selected"
+    onClick={[Function]}
+  >
+    <span
+      data-testid="dropdown-list-selected"
+    >
+      Title
+    </span>
+    <img
+      src="chevron-down.svg"
+    />
+  </div>
+</div>
+`;

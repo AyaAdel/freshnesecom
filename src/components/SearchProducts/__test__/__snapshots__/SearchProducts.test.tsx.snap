@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Search Categories Correctly 1`] = `
+<div
+  className="search-products"
+>
+  <div
+    className="dropdown-list"
+    data-testid="dropdown-list"
+  >
+    <div
+      className="dropdown-list__list__selected"
+      onClick={[Function]}
+    >
+      <span
+        data-testid="dropdown-list-selected"
+      >
+        All Categories
+      </span>
+      <img
+        src="chevron-down.svg"
+      />
+    </div>
+  </div>
+  <input
+    className="search-products__input"
+    onChange={[Function]}
+    placeholder="Search Products, categories ..."
+    value=""
+  />
+  <img
+    className="search-products__icon"
+    src="search.svg"
+  />
+</div>
+`;

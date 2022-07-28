@@ -1,0 +1,26 @@
+.list-group__title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #151515;
+  text-transform: capitalize;
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+.list-group__links {
+  display: flex;
+  flex-direction: column;
+}
+
+.list-group__link {
+  text-decoration: underline;
+  color: #6a983c;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+a.list-group__link {
+  text-decoration: none;
+  margin-bottom: 16px;
+}

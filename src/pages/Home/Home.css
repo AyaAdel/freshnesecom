@@ -1,0 +1,10 @@
+.home-main {
+  display: flex;
+  padding: 30px 45px;
+}
+
+.home-main aside {
+  flex-basis: 269px;
+  margin-right: 32px;
+  flex-shrink: 0;
+}
